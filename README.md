@@ -1,1 +1,4 @@
 # fair-mint-contract
+
+contract address
+0x14F9c86164ff782af798f29c85351F9Dc075ab46
